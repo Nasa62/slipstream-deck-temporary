@@ -4,7 +4,7 @@ Temporary bundle of Slipstream Mod Manager 1.9.1 for the SteamDeck
 Will be replaced eventually by a complete installer for Hyperspace on the Deck & Linux that'll just include the mod manager
 
 ## Download custom version for SteamDeck
-[Download from here](https://github.com/Nasa62/slipstream-deck-temporary/blob/main/SlipstreamModManager-SteamDeck.tar.xz?raw=true)
+[Download from here](https://github.com/Nasa62/slipstream-deck-temporary/blob/main/SlipstreamModManager_1.9.1-SteamDeck.tar.xz?raw=true)
 
 ## Install & First time use
 Open Dolphin and navigate to your `Downloads` folder
