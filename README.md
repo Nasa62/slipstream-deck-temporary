@@ -1,5 +1,5 @@
 # slipstream-deck-temporary
-Temporary bundle of Slipstream Mod Manager 1.9.1 for the SteamDeck
+Temporary bundle of Slipstream Mod Manager 1.9.1 for the SteamDeck for FTL: Faster Than Light mods
 
 Will be replaced eventually by a complete installer for Hyperspace on the Deck & Linux that'll just include the mod manager
 
