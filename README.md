@@ -3,6 +3,10 @@ Temporary bundle of Slipstream Mod Manager 1.9.1 for the SteamDeck for FTL: Fast
 
 Will be replaced eventually by a complete installer for Hyperspace on the Deck & Linux that'll just include the mod manager
 
+**If you're trying to install Hyperspace** there is an official guide for the Steam Deck available at https://ftl-hyperspace.github.io/FTL-Hyperspace/install-guides/linux/ it includes *all* the information in this guide plus more, so just follow it.
+
+If you're just trying to use non-Hyperspace mods on the Deck then just follow this guide.
+
 ## Download custom version for SteamDeck
 [Download from here](https://github.com/Nasa62/slipstream-deck-temporary/blob/main/SlipstreamModManager_1.9.1-SteamDeck.tar.xz?raw=true)
 
